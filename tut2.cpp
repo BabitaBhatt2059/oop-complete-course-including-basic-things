@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <iostream>
 using namespace std;
 class student
@@ -48,7 +47,4 @@ int main(){
     s.getdata();
     s.display();
     return 0;
-
-
->>>>>>> 378fce419593235af3d2143a6ec2bd6280adfb9b
 };
